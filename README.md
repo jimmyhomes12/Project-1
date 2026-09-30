@@ -1,4 +1,4 @@
-# Project Two: Gold Price Forecasting with Geopolitical Risk
+# Project 1: Gold Price Forecasting with Geopolitical Risk
 
 ## 📊 Project Overview
 
