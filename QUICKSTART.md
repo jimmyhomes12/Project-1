@@ -12,8 +12,8 @@ This guide will help you get started with the Gold Price Forecasting project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/jimmyhomes12/Project-Two.git
-cd Project-Two
+git clone https://github.com/jimmyhomes12/Project-1.git
+cd Project-1
 
 # Create a virtual environment (recommended)
 python -m venv .venv

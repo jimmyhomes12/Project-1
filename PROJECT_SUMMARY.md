@@ -105,7 +105,7 @@ This project demonstrates end-to-end machine learning workflow for time-series f
 ## 📁 Repository Structure
 
 ```
-Project-Two/
+Project-1/
 ├── sales-forecasting-gold-gpr/
 │   ├── data/raw/              # Historical CSV data
 │   ├── notebooks/             # Jupyter analysis notebook
@@ -145,7 +145,7 @@ Project-Two/
 
 **Author**: Jimmy Homes  
 **GitHub**: [@jimmyhomes12](https://github.com/jimmyhomes12)  
-**Project Repository**: [Project-Two](https://github.com/jimmyhomes12/Project-Two)
+**Project Repository**: [Project-1](https://github.com/jimmyhomes12/Project-1)
 
 ---
 
