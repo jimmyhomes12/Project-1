@@ -52,7 +52,7 @@ Use cases:
 ## Project Structure
 
 ```
-Project-Two/
+Project-1/
 ├── .venv/                             # shared virtual environment (ignored)
 ├── sales-forecasting-gold-gpr/
 │   ├── data/
@@ -75,10 +75,10 @@ Project-Two/
 
 ## Setup & Installation
 
-From Project 2 root:
+From Project 1 root:
 
 ```bash
-cd /path/to/Project-Two
+cd /path/to/Project-1
 
 # Create/activate virtual environment (Linux/Mac)
 python -m venv .venv
@@ -101,7 +101,7 @@ sales-forecasting-gold-gpr/data/raw/Gold-Silver-GeopoliticalRisk_HistoricalData.
 ## Modeling Notebook: How to Run
 
 ```bash
-cd /path/to/Project-Two
+cd /path/to/Project-1
 source .venv/bin/activate  # or .\.venv\Scripts\Activate.ps1 on Windows
 cd ./sales-forecasting-gold-gpr/
 jupyter notebook notebooks/gold_gpr_forecasting.ipynb
@@ -158,7 +158,7 @@ The Streamlit app (`app.py`) provides:
 Run the app:
 
 ```bash
-cd /path/to/Project-Two
+cd /path/to/Project-1
 source .venv/bin/activate  # or .\.venv\Scripts\Activate.ps1 on Windows
 cd ./sales-forecasting-gold-gpr/
 streamlit run app.py

@@ -20,7 +20,7 @@ This repository contains a comprehensive machine learning project that forecasts
 ## 📁 Repository Structure
 
 ```
-Project-Two/
+Project-1/
 ├── sales-forecasting-gold-gpr/     # Main project directory
 │   ├── data/                       # Data storage
 │   │   ├── raw/                    # Raw CSV files
@@ -52,8 +52,8 @@ Project-Two/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/jimmyhomes12/Project-Two.git
-cd Project-Two
+git clone https://github.com/jimmyhomes12/Project-1.git
+cd Project-1
 ```
 
 2. Create and activate a virtual environment:
